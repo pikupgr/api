@@ -2,7 +2,7 @@ Orders
 =====
 
 # Create order
-`POST /orders.json` Make an outbound call
+`POST /orders.json` Create new pik
 
 ### Request Data
 
